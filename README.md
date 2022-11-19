@@ -1,3 +1,3 @@
 # Catering
-Ky eshte afishimi i catering code duke perdorin si IDE VSCode
-![](Catering.png)
+Ky eshte afishimi i catering code duke perdorur si IDE VSCode
+![](Catering/Catering.png)
